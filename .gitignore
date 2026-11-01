@@ -1,0 +1,12 @@
+# Systèmes
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Fichiers temporaires Office
+~$*
+*.tmp
+
+# Versions de travail non publiées
+*.docx
+brouillons/
